@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(282): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(290): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(382): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(453): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(547): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(551): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(555): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(559): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(572): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(578): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(599): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(601): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(603): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(605): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(608): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(610): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(613): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(444): warning C4101: 'a': unreferenced local variable
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(444): warning C4101: 's': unreferenced local variable
+c:\users\nabil\desktop\sfml\test_cases\test_cases\main.cpp(423): warning C4715: 'settings': not all control paths return a value
+  test_cases.vcxproj -> C:\Users\Nabil\Desktop\sfml\test_cases\Debug\test_cases.exe
+  test_cases.vcxproj -> C:\Users\Nabil\Desktop\sfml\test_cases\Debug\test_cases.pdb (Full PDB)
